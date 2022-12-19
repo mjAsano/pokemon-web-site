@@ -41,6 +41,7 @@ body {
 }
 #main-page {
     background-image: url(images/bg-main.png);
+    background-position: center;
 }
 .main-wrapper {
     display: flex;
